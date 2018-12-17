@@ -1,2 +1,2 @@
-# quaza-cloud-config
-Contains all cloud configurations for applications
+# quaza-docker-cloud-config-server
+Cloud configuration server docker applications
